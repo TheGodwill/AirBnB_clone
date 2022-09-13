@@ -65,3 +65,5 @@ Current screenshots have been done on Chrome 56 or more.
 No cross browsers
 You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
 # More Info
+
+![image](https://user-images.githubusercontent.com/101563346/190026173-eade739f-89e6-471f-ab76-ce20d4b31960.png)
